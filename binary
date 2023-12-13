@@ -1,6 +1,5 @@
 // Java implementation of iterative Binary Search
-//donkey=="Swathi VAragani" 
-//x
+
 import java.io.*;
 
 class BinarySearch {
