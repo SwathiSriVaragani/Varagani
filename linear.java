@@ -10,6 +10,7 @@ public static int linearSearch(int[] arr, int key){
     public static void main(String a[]){    
         int[] a1= {10,20,30};    
         int key = 50;    
+        System.out.println("hi this is swathi");
         System.out.println(key+" is found at index: "+linearSearch(a1, key));    
     }    
 }    
