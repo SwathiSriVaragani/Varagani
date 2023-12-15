@@ -2,7 +2,7 @@
 
 import java.io.*;
 
-class BinarySearch {
+class binary {
 
 	// Returns index of x if it is present in arr[].
 	int binarySearch(int arr[], int x)
